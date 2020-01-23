@@ -1,9 +1,9 @@
 {
-    "name": "HELPq",
+    "name": "HackOHI/O HELPq",
     "description": "An extensible, customizable real-time queue system",
     "env": {
-        "ROOT_URL": "https://{SET THIS}.herokuapp.com/",
-        "ADMIN_PASSWORD": "{SET THIS}",
+        "ROOT_URL": "https://hackohiohelpq.herokuapp.com/",
+        "ADMIN_PASSWORD": "hackohio",
         "ADMIN_USERNAME": "admin",
         "DEFAULT_MENTOR": "true",
         "FACEBOOK_CLIENT_ID": "facebook-client-id",
