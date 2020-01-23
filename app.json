@@ -1,5 +1,5 @@
 {
-    "name": "HackOHI/O HELPq",
+    "name": "HELPq",
     "description": "An extensible, customizable real-time queue system",
     "env": {
         "ROOT_URL": "https://{SET THIS}.herokuapp.com/",
