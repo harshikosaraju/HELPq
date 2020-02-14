@@ -1,10 +1,10 @@
 {
   "admin": {
     "username": "admin",
-    "password": "hunter2"
+    "password": "makeohio2020!"
   },
   "github": {
-    "enable": false,
+    "enable": true,
     "clientId": "github-client-id",
     "secret": "github-secret"
   },
